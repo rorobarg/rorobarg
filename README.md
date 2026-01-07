@@ -14,7 +14,7 @@ I'm a student exploring the world of software engineering and cybersecurity. Sti
 - Creating useful tools for everyday life  
 
 ## Projects
-- **UniFind** – A student platform experiment with Node.js/Express/MongoDB  
+- **UniFind** – A student platform experiment (A lost and Found System) using Node.js/Express/MongoDB  
 - **WaTracker** – A tool for tracking water station expenses  
 
 ## Collaboration
