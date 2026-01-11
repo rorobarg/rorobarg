@@ -15,7 +15,7 @@ I'm a student exploring the world of software engineering and cybersecurity. Sti
 
 ## Projects
 - **UniFind** – A student platform experiment (A lost and Found System)
-- **WaTracker** – A tool for tracking water station expenses  
+- **WaTracker** – A lightweight Application Dev for tracking water station expenses  
 
 ## Collaboration
 Open to learning with others, sharing ideas, and working on beginner-friendly projects that help me grow.
